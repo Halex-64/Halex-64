@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Java and Html/Css
+
 <!--
 **Halex-64/Halex-64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
