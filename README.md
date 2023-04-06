@@ -3,6 +3,8 @@
 - 📚 I’m currently studying at SENAI
 - 🌱 I’m currently learning Java and Html
 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
+
 <!--
 **Halex-64/Halex-64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
