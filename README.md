@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Java and Html
 
 ### Certification 📃
-- Scrum Foundation Professional
+- 🖼 Scrum Foundation Professional
 
 
 <!--
