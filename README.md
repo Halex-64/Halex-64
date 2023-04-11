@@ -4,7 +4,7 @@
 - 🌱 Learning Java and Html
 
 ### Certification 📃
-- 🖼 Scrum Foundation 
+- 🖼 CertiProf Scrum Foundation Professional Certification SFPC
 
 
 <!--
