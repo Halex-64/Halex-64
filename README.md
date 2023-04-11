@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 📚 I’m currently studying at SENAI
-- 🌱 I’m currently learning Java and Html
+- 🌱 Learning Java and Html
 
 ### Certification 📃
 - 🖼 Scrum Foundation 
