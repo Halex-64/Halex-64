@@ -1,7 +1,7 @@
  ### Hi there 🤙
 
 - 📚 I’m currently studying at SENAI
-- 🌱 Learning Java and Html
+- 🌱 Learning Java and Html/Css
 
 ### Certification 📃
 - 🖼 CertiProf Scrum Foundation Professional Certification SFPC
