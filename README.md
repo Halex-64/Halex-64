@@ -1,10 +1,10 @@
- ### Hi there 🤙
+ ### Hi there, I’m Hálex and i study programming at Senai. 👾
 
-- 📚 I’m currently studying at SENAI
-- 🌱 Learning Java and Html/Css
+- 📚 I’m currently learning Java, Html and Css.
 
-### Certification 📃
-- 🖼 CertiProf Scrum Foundation Professional Certification SFPC
+
+### Certification 👨‍🎓
+-  ✔ CertiProf Scrum Foundation Professional Certification SFPC
 
 
 <!--
