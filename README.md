@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Hálex</h1>
+ <h1 align="center">Hi 👻, I'm Hálex</h1>
 <h3 align="center">Currently an programming student at Senai-Osasco</h3>
 
 - 🌱 I’m currently learning: **Java, JavaScript, Html, Css**
