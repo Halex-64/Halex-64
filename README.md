@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: **halexgoncalves6@gmail.com**
 
-- ⚡ Fun fact: **I like to read manga and watch anime 🐱‍👤**
+- ⚡ Fun fact: **I like to read manga and watch anime 🌸**
 
 
 <h3 align="left">Languages and Tools:</h3>
