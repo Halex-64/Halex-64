@@ -1,11 +1,11 @@
- <h1 align="center">Hi 👻, I'm Hálex</h1>
+ <h1 align="center">Hi (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧, I'm Hálex</h1>
 <h3 align="center">Currently an programming student at Senai-Osasco</h3>
 
 - 🌱 I’m currently learning: **Java, JavaScript, Html, Css**
 
 - 📫 How to reach me: **halexgoncalves6@gmail.com**
 
-- ⚡ Fun fact: **I like to read manga and watch anime **
+- ⚡ Fun fact: **I like to read manga and watch anime**
 
 
 <h3 align="left">Languages and Tools:</h3>
