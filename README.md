@@ -18,11 +18,6 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=halex-64&show_icons=true&locale=en&layout=compact" alt="halex-64" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=halex-64&show_icons=true&locale=en" alt="halex-64" /></p>
-
-
 <!--
 **Halex-64/Halex-64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
