@@ -18,8 +18,8 @@
 </p>
 
 <h3 align= "center">Have a great day!!</h3>
-![](https://github.com/Halex-64/Halex-64/blob/main/chiyo-azumanga-daioh.gif)
 
+![](https://github.com/Halex-64/Halex-64/blob/main/chiyo-azumanga-daioh.gif)
 <!--
 **Halex-64/Halex-64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
