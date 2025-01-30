@@ -1,5 +1,5 @@
 <h1 align= "center">Hello and welcome to my profile!!</h1>
-<h3 align="center">My name is Hálex, a programming student at SENAI</h3>
+<h3 align="center">My name is Hálex</h3>
 
 - 📚 I’m currently learning: **A little bit of everything**
 
