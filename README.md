@@ -1,7 +1,7 @@
 <h1 align= "center">Hello and welcome to my profile!!</h1>
 <h3 align="center">My name is Hálex</h3>
 
-- 📚 I’m currently learning **A little bit of everything** but mostly database stuff
+- 📚 I’m currently learning **A little bit of everything**, but mostly database stuff
 
 - 📫 Here's how you can reach me: **halexgoncalves6@gmail.com**
 
